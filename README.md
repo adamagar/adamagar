@@ -27,4 +27,4 @@ I'm a QA Tester specializing in both manual and automation tests, proficient in 
 
 ## 🌐 Connect with Me
 
-- 📧 Email: adamagar88@gmail.com
+- 📧 Email: adamagar.dev@gmail.com
